@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: application
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: shpatel
+Implementation-Vendor-Id: com.example
+Build-Jdk: 1.8.0_161
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/application
+Created-By: Maven Integration for Eclipse
+
